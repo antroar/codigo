@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
 public class hi_world {
     public static void main (String args[]){
         JOptionPane.showMessageDialog(null, "hola mundo");
+        JOptionPane.showMessageDialog(null, "adios mundo");
     }
     
 }
